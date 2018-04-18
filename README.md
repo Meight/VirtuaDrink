@@ -11,7 +11,7 @@ The user is seated at a table and can cease glasses of different drinks with the
 
 The user incarnates someone who decided to drive back home under the effects of alcohol. They are seated on the driver seat of a car and they have to try to drive it as the effects of alcohol increase over time, based on their alcohol intake in the first scene. Time frame is accelerated but real-life time factors are used, e.g. the rate at which alcohol gets digested and enters bloodstream. After a certain point, it becomes practically impossible to control the car which crashes.
 
-Intended, controlled _cybersickness_ is used in this scene to bring the feeling of sickness to the other.
+Intended, controlled _cybersickness_ is used in this scene to bring the feeling of sickness to the other. This is made possible by the usage of a dedicated shader.
 
 ### Scene 3: Post-accident scene.
 
