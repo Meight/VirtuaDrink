@@ -14,7 +14,7 @@ The user incarnates someone who decided to drive back home under the effects of 
 
 The user survived with no harm but can walk (practically, teleport to avoid _cybersickness_) through the post-accident scene. There, an ambulance and the police are present, trying to rescue other people who were directly impacted by the accident the user caused.
 
-### Statistics about Quebec
+### Scene 4: Statistics about Quebec
 
 A statistical scene where the user can view the main statistics regarding drink-driving in Quebec.
 
