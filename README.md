@@ -17,6 +17,8 @@ Intended, controlled _cybersickness_ is used in this scene to bring the feeling 
 
 The user survived with no harm but can walk (practically, teleport to avoid _cybersickness_) through the post-accident scene. There, an ambulance and the police are present, trying to rescue other people who were directly impacted by the accident the user caused.
 
+The user can interact briefly with two victims, learn more about their background and their intended future, and how the user ruined it through the accident.
+
 ### Scene 4: Statistics about Quebec
 
 A statistical scene where the user can view the main statistics regarding drink-driving in Quebec.
