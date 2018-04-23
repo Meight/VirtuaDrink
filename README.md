@@ -1,6 +1,8 @@
 # VirtuaDrink
 Virtual reality &amp; 3D simulator of the effects of alcohol on the human body.
 
+---
+
 The user is put through the four following scenes in virtual reality.
 
 ### Scene 1: Immersion and intake of alcohol
